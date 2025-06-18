@@ -1,11 +1,11 @@
 
-## CodingOIer 的社区国际象棋锦标赛
+## Oracynx 的社区国际象棋锦标赛
 
-[**English Version**](#codingoiers-community-chess-championship)
+[**English Version**](#Oracynxs-community-chess-championship)
 
 当前状态：正在对局
 
-下一步需黑棋走棋。
+下一步需白棋走棋。
 
 参与方法：
 
@@ -15,7 +15,7 @@
 
 或者手动提交 Issue：
 
-> 在本 [repo](https://github.com/CodingOIer/CodingOIer) 的 [Issue](https://github.com/CodingOIer/CodingOIer/issues) 界面提交一个新的 Issue，标题如下：
+> 在本 [repo](https://github.com/Oracynx/Oracynx) 的 [Issue](https://github.com/Oracynx/Oracynx/issues) 界面提交一个新的 Issue，标题如下：
 >
 > - `!move|<需要移动的棋子位置>|<想要移动到的位置>` 来移动棋子，如 `!move|A2|A4`。
 >
@@ -25,7 +25,7 @@
 
 到达对方底线的兵将被自动升变为后，暂不支持自行决定。
 
-可以查看 git log / [`documents/log.md`](https://github.com/CodingOIer/CodingOIer/blob/game/documents/log.md) 获取结果，或直接查看下面的棋盘。
+可以查看 git log / [`documents/log.md`](https://github.com/Oracynx/Oracynx/blob/game/documents/log.md) 获取结果，或直接查看下面的棋盘。
 
 如果遇到问题，请发送邮件到 `i@wanghongtian.com` 或提交 Issue，但是由于 Issue 可能堆积，有可能无法看到。
 
@@ -34,21 +34,21 @@
 |       |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **8** | [![](./chess-images/bR.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/bB.svg)](./chess-links/c8.md)  | [![](./chess-images/bQ.svg)](./chess-links/d8.md)  | [![](./chess-images/bK.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
-| **7** | [![](./chess-images/bP.svg)](./chess-links/a7.md)  | [![](./chess-images/bP.svg)](./chess-links/b7.md)  | [![](./chess-images/bP.svg)](./chess-links/c7.md)  | [![](./chess-images/bP.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
-| **6** | [![](./chess-images/nn.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/nn.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
+| **7** | [![](./chess-images/bP.svg)](./chess-links/a7.md)  | [![](./chess-images/bP.svg)](./chess-links/b7.md)  | [![](./chess-images/bP.svg)](./chess-links/c7.md)  | [![](./chess-images/nn.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
+| **6** | [![](./chess-images/nn.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/bP.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
 | **5** | [![](./chess-images/nn.svg)](./chess-links/a5.md)  | [![](./chess-images/nn.svg)](./chess-links/b5.md)  | [![](./chess-images/nn.svg)](./chess-links/c5.md)  | [![](./chess-images/nn.svg)](./chess-links/d5.md)  | [![](./chess-images/nn.svg)](./chess-links/e5.md)  | [![](./chess-images/nn.svg)](./chess-links/f5.md)  | [![](./chess-images/nn.svg)](./chess-links/g5.md)  | [![](./chess-images/nn.svg)](./chess-links/h5.md)  |
 | **4** | [![](./chess-images/nn.svg)](./chess-links/a4.md)  | [![](./chess-images/nn.svg)](./chess-links/b4.md)  | [![](./chess-images/wP.svg)](./chess-links/c4.md)  | [![](./chess-images/nn.svg)](./chess-links/d4.md)  | [![](./chess-images/nn.svg)](./chess-links/e4.md)  | [![](./chess-images/nn.svg)](./chess-links/f4.md)  | [![](./chess-images/nn.svg)](./chess-links/g4.md)  | [![](./chess-images/nn.svg)](./chess-links/h4.md)  |
 | **3** | [![](./chess-images/nn.svg)](./chess-links/a3.md)  | [![](./chess-images/nn.svg)](./chess-links/b3.md)  | [![](./chess-images/nn.svg)](./chess-links/c3.md)  | [![](./chess-images/nn.svg)](./chess-links/d3.md)  | [![](./chess-images/nn.svg)](./chess-links/e3.md)  | [![](./chess-images/nn.svg)](./chess-links/f3.md)  | [![](./chess-images/nn.svg)](./chess-links/g3.md)  | [![](./chess-images/nn.svg)](./chess-links/h3.md)  |
 | **2** | [![](./chess-images/wP.svg)](./chess-links/a2.md)  | [![](./chess-images/wP.svg)](./chess-links/b2.md)  | [![](./chess-images/nn.svg)](./chess-links/c2.md)  | [![](./chess-images/wP.svg)](./chess-links/d2.md)  | [![](./chess-images/wP.svg)](./chess-links/e2.md)  | [![](./chess-images/wP.svg)](./chess-links/f2.md)  | [![](./chess-images/wP.svg)](./chess-links/g2.md)  | [![](./chess-images/wP.svg)](./chess-links/h2.md)  |
 | **1** | [![](./chess-images/wR.svg)](./chess-links/a1.md)  | [![](./chess-images/wN.svg)](./chess-links/b1.md)  | [![](./chess-images/wB.svg)](./chess-links/c1.md)  | [![](./chess-images/wQ.svg)](./chess-links/d1.md)  | [![](./chess-images/wK.svg)](./chess-links/e1.md)  | [![](./chess-images/wB.svg)](./chess-links/f1.md)  | [![](./chess-images/wN.svg)](./chess-links/g1.md)  | [![](./chess-images/wR.svg)](./chess-links/h1.md)  |
 
-## CodingOIer's Community Chess Championship
+## Oracynx's Community Chess Championship
 
-[**中文版本**](#codingoier-的社区国际象棋锦标赛)
+[**中文版本**](#Oracynx-的社区国际象棋锦标赛)
 
 Current status: PLAYING
 
-The next step requires BLACK chess moves.
+The next step requires WHITE chess moves.
 
 How to participate:
 
@@ -58,7 +58,7 @@ How to participate:
 
 Or submit an issue manually:
 
-> Submit a new issue in the [Issue](https://github.com/CodingOIer/CodingOIer) interface of this [repo](https://github.com/CodingOIer/CodingOIer) in the title format:
+> Submit a new issue in the [Issue](https://github.com/Oracynx/Oracynx) interface of this [repo](https://github.com/Oracynx/Oracynx) in the title format:
 >
 > - `!move|<position of chess piece to be moved>|<position to be moved>` to move chess pieces, such as `!move|A2|A4`.
 >
@@ -68,7 +68,7 @@ The logic of chess is relatively simple, and some special moves may not be avail
 
 Pawns that reach the opponent's bottom line will be automatically promoted to the back, and you can't decide for yourself at this time.
 
-You can check git log / [`documents/log.md`](https://github.com/CodingOIer/CodingOIer/blob/game/documents/log.md) to get the results, or just look at the board below.
+You can check git log / [`documents/log.md`](https://github.com/Oracynx/Oracynx/blob/game/documents/log.md) to get the results, or just look at the board below.
 
 If you encounter any problems, please send an email to `i@wanghongtian.com` or submit an issue, but since issues may be piled up, they may not be visible.
 
@@ -77,8 +77,8 @@ Likewise, PRs are welcome.
 |       |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **8** | [![](./chess-images/bR.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/bB.svg)](./chess-links/c8.md)  | [![](./chess-images/bQ.svg)](./chess-links/d8.md)  | [![](./chess-images/bK.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
-| **7** | [![](./chess-images/bP.svg)](./chess-links/a7.md)  | [![](./chess-images/bP.svg)](./chess-links/b7.md)  | [![](./chess-images/bP.svg)](./chess-links/c7.md)  | [![](./chess-images/bP.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
-| **6** | [![](./chess-images/nn.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/nn.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
+| **7** | [![](./chess-images/bP.svg)](./chess-links/a7.md)  | [![](./chess-images/bP.svg)](./chess-links/b7.md)  | [![](./chess-images/bP.svg)](./chess-links/c7.md)  | [![](./chess-images/nn.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
+| **6** | [![](./chess-images/nn.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/bP.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
 | **5** | [![](./chess-images/nn.svg)](./chess-links/a5.md)  | [![](./chess-images/nn.svg)](./chess-links/b5.md)  | [![](./chess-images/nn.svg)](./chess-links/c5.md)  | [![](./chess-images/nn.svg)](./chess-links/d5.md)  | [![](./chess-images/nn.svg)](./chess-links/e5.md)  | [![](./chess-images/nn.svg)](./chess-links/f5.md)  | [![](./chess-images/nn.svg)](./chess-links/g5.md)  | [![](./chess-images/nn.svg)](./chess-links/h5.md)  |
 | **4** | [![](./chess-images/nn.svg)](./chess-links/a4.md)  | [![](./chess-images/nn.svg)](./chess-links/b4.md)  | [![](./chess-images/wP.svg)](./chess-links/c4.md)  | [![](./chess-images/nn.svg)](./chess-links/d4.md)  | [![](./chess-images/nn.svg)](./chess-links/e4.md)  | [![](./chess-images/nn.svg)](./chess-links/f4.md)  | [![](./chess-images/nn.svg)](./chess-links/g4.md)  | [![](./chess-images/nn.svg)](./chess-links/h4.md)  |
 | **3** | [![](./chess-images/nn.svg)](./chess-links/a3.md)  | [![](./chess-images/nn.svg)](./chess-links/b3.md)  | [![](./chess-images/nn.svg)](./chess-links/c3.md)  | [![](./chess-images/nn.svg)](./chess-links/d3.md)  | [![](./chess-images/nn.svg)](./chess-links/e3.md)  | [![](./chess-images/nn.svg)](./chess-links/f3.md)  | [![](./chess-images/nn.svg)](./chess-links/g3.md)  | [![](./chess-images/nn.svg)](./chess-links/h3.md)  |
