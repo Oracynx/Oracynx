@@ -135,7 +135,7 @@ def urlEncode(text):
 
 
 def getIssue(title):
-    return f'https://github.com/CodingOIer/CodingOIer/issues/new?title={urlEncode(title)}&body={urlEncode(open('./documents/issue-body.md').read())}'
+    return f'https://github.com/Oracynx/Oracynx/issues/new?title={urlEncode(title)}&body={urlEncode(open('./documents/issue-body.md').read())}'
 
 
 def genLink(id):
