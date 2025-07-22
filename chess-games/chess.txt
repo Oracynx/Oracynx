@@ -1,6 +1,6 @@
 bR|bN|bB|bQ|bK|bB|bN|bR
-bP|wP|nn|bP|bP|bP|bP|bP
-nn|nn|nn|nn|nn|nn|nn|nn
+nn|wP|nn|bP|bP|bP|bP|bP
+bP|nn|nn|nn|nn|nn|nn|nn
 nn|nn|bP|nn|nn|nn|nn|nn
 nn|nn|nn|nn|nn|nn|nn|nn
 nn|nn|nn|nn|nn|nn|nn|nn
