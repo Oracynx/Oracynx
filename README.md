@@ -3,9 +3,9 @@
 
 [**English Version**](#Oracynxs-community-chess-championship)
 
-当前状态：正在对局
+当前状态：白棋胜利
 
-下一步需白棋走棋。
+下一步需黑棋走棋。
 
 参与方法：
 
@@ -33,7 +33,7 @@
 
 |       |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **8** | [![](./chess-images/nn.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/nn.svg)](./chess-links/c8.md)  | [![](./chess-images/wQ.svg)](./chess-links/d8.md)  | [![](./chess-images/bK.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
+| **8** | [![](./chess-images/nn.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/nn.svg)](./chess-links/c8.md)  | [![](./chess-images/nn.svg)](./chess-links/d8.md)  | [![](./chess-images/wQ.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
 | **7** | [![](./chess-images/bR.svg)](./chess-links/a7.md)  | [![](./chess-images/nn.svg)](./chess-links/b7.md)  | [![](./chess-images/nn.svg)](./chess-links/c7.md)  | [![](./chess-images/nn.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
 | **6** | [![](./chess-images/bP.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/bP.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
 | **5** | [![](./chess-images/nn.svg)](./chess-links/a5.md)  | [![](./chess-images/nn.svg)](./chess-links/b5.md)  | [![](./chess-images/bP.svg)](./chess-links/c5.md)  | [![](./chess-images/nn.svg)](./chess-links/d5.md)  | [![](./chess-images/nn.svg)](./chess-links/e5.md)  | [![](./chess-images/nn.svg)](./chess-links/f5.md)  | [![](./chess-images/nn.svg)](./chess-links/g5.md)  | [![](./chess-images/nn.svg)](./chess-links/h5.md)  |
@@ -46,9 +46,9 @@
 
 [**中文版本**](#Oracynx-的社区国际象棋锦标赛)
 
-Current status: PLAYING
+Current status: White Wins
 
-The next step requires WHITE chess moves.
+The next step requires BLACK chess moves.
 
 How to participate:
 
@@ -76,7 +76,7 @@ Likewise, PRs are welcome.
 
 |       |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **8** | [![](./chess-images/nn.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/nn.svg)](./chess-links/c8.md)  | [![](./chess-images/wQ.svg)](./chess-links/d8.md)  | [![](./chess-images/bK.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
+| **8** | [![](./chess-images/nn.svg)](./chess-links/a8.md)  | [![](./chess-images/bN.svg)](./chess-links/b8.md)  | [![](./chess-images/nn.svg)](./chess-links/c8.md)  | [![](./chess-images/nn.svg)](./chess-links/d8.md)  | [![](./chess-images/wQ.svg)](./chess-links/e8.md)  | [![](./chess-images/bB.svg)](./chess-links/f8.md)  | [![](./chess-images/bN.svg)](./chess-links/g8.md)  | [![](./chess-images/bR.svg)](./chess-links/h8.md)  |
 | **7** | [![](./chess-images/bR.svg)](./chess-links/a7.md)  | [![](./chess-images/nn.svg)](./chess-links/b7.md)  | [![](./chess-images/nn.svg)](./chess-links/c7.md)  | [![](./chess-images/nn.svg)](./chess-links/d7.md)  | [![](./chess-images/bP.svg)](./chess-links/e7.md)  | [![](./chess-images/bP.svg)](./chess-links/f7.md)  | [![](./chess-images/bP.svg)](./chess-links/g7.md)  | [![](./chess-images/bP.svg)](./chess-links/h7.md)  |
 | **6** | [![](./chess-images/bP.svg)](./chess-links/a6.md)  | [![](./chess-images/nn.svg)](./chess-links/b6.md)  | [![](./chess-images/nn.svg)](./chess-links/c6.md)  | [![](./chess-images/bP.svg)](./chess-links/d6.md)  | [![](./chess-images/nn.svg)](./chess-links/e6.md)  | [![](./chess-images/nn.svg)](./chess-links/f6.md)  | [![](./chess-images/nn.svg)](./chess-links/g6.md)  | [![](./chess-images/nn.svg)](./chess-links/h6.md)  |
 | **5** | [![](./chess-images/nn.svg)](./chess-links/a5.md)  | [![](./chess-images/nn.svg)](./chess-links/b5.md)  | [![](./chess-images/bP.svg)](./chess-links/c5.md)  | [![](./chess-images/nn.svg)](./chess-links/d5.md)  | [![](./chess-images/nn.svg)](./chess-links/e5.md)  | [![](./chess-images/nn.svg)](./chess-links/f5.md)  | [![](./chess-images/nn.svg)](./chess-links/g5.md)  | [![](./chess-images/nn.svg)](./chess-links/h5.md)  |
